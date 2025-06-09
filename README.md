@@ -1,1 +1,1 @@
-Utilizados para armazenar datasets e MVP's do meu curso de pós-graduação pela PUC-Rio.
+Utilizado para armazenar datasets e MVP's do meu curso de pós-graduação pela PUC-Rio.
