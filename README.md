@@ -1,2 +1,1 @@
-# Ciencia-de-Dados-e-Analytics
 Utilizados para armazenar datasets e MVP's do meu curso de pós-graduação pela PUC-Rio.
