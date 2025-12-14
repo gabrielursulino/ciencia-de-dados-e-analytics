@@ -91,6 +91,13 @@ Esta seção está dentro do notebook.
 ## 9. Autoavaliação
 O objetivo de criar um MVP para análise de previsão de AVC foi atingido com sucesso. Consegui estruturar um pipeline de dados no Databricks que ingere, limpa e disponibiliza os dados para análise. Dificuldades: A principal dificuldade encontrada foi o tratamento de valores nulos na variável IMC (bmi), onde a decisão de usar a mediana precisou ser validada para não introduzir viés. Trabalhos Futuros: Como evolução, planejo implementar um modelo de Machine Learning (Regressão Logística ou Random Forest) utilizando a biblioteca MLlib do Spark para prever a probabilidade de AVC em novos pacientes, transformando este MVP de análise descritiva em um produto preditivo.
 
+## 10. Referências
+Documentação completa em PDF.
+
+Repositório público no GitHub
+
+Pipeline de Dados no Databricks
+
 
 
 
