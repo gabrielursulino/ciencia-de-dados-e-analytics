@@ -30,7 +30,7 @@ O conjunto de dados escolhido é o *Cerebral Stroke Prediction-Imbalanced Datase
 
 *Para mais detalhes a respeito deste dataset, acesse:* https://www.kaggle.com/datasets/shashwatwork/cerebral-stroke-predictionimbalaced-dataset/data
 
-## 3. Modelagem
+## 3. Modelagem e Catálogo de Dados
 Para este projeto, será utilizada a Arquitetura Medallion (Bronze, Silver, Gold).
 
 Bronze (Raw): Cópia fiel dos dados CSV em formato Delta.
