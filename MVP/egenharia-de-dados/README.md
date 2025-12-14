@@ -62,19 +62,7 @@ Gold (Aggregated/Business): Tabela analítica pronta para BI, modelada em format
 
 Esta etapa atua como o script de configuração inicial do ambiente, sendo fundamental para garantir a governança e a organização correta do MVP. Ela é importante porque materializa fisicamente a Arquitetura Medallion no Databricks, criando os recipientes lógicos isolados (Schemas Bronze, Silver e Gold) para cada etapa do processamento, ao mesmo tempo que assegura a reprodutibilidade do projeto ao limpar resquícios de testes anteriores, oferecendo um "terreno limpo" e estruturado para a execução segura dos pipelines de dados.
 
-```sql
-DROP CATALOG IF EXISTS mvpengenharia CASCADE
-CREATE CATALOG mvpengenharia
-USE CATALOG mvpengenharia
-DROP SCHEMA IF EXISTS stroke CASCADE
-CREATE SCHEMA stroke
-DROP SCHEMA IF EXISTS bronze CASCADE
-CREATE SCHEMA bronze
-DROP SCHEMA IF EXISTS silver CASCADE
-CREATE SCHEMA silver
-DROP SCHEMA IF EXISTS gold CASCADE
-CREATE SCHEMA gold'
-```
+Esta seção está dentro do notebook.
 
 ## 5. Implementação da Camada Bronze
 
