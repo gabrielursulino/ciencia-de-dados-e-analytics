@@ -45,7 +45,7 @@ Gold (Aggregated/Business): Tabela analítica pronta para BI, modelada em format
 | :--- | :--- | :--- | :--- |
 | `id` | Numérico | Identificador único | 1 a 72943 |
 | `gender` | Categórico | Gênero do paciente | Male, Female, Other |
-| `age` | Numérico | Idade do paciente | 0.08 a 82.0 |
+| `age` | Numérico | Idade do paciente em anos | 0.0 a 82.0 |
 | `hypertension` | Binário | 0: Não tem, 1: Tem hipertensão | 0, 1 |
 | `heart_disease` | Binário | 0: Não tem, 1: Tem doença cardíaca | 0, 1 |
 | `ever_married` | Categórico | Já foi casado? | No, Yes |
