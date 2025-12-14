@@ -39,7 +39,7 @@ Silver (Cleaned): Dados limpos, tipados e com valores nulos tratados.
 
 Gold (Aggregated/Business): Tabela analítica pronta para BI, modelada em formato "Flat" para facilitar a análise direta, dado o escopo do MVP.
 
-**Catálogo de Dados (Data Dictionary)**
+**Catálogo de Dados**
 
 | Coluna | Tipo | Descrição | Domínio/Valores Esperados |
 | :--- | :--- | :--- | :--- |
