@@ -17,7 +17,7 @@ O objetivo deste MVP é identificar quais fatores clínicos e demográficos est�
 
 O arquivo final que contém todos códigos, análises, gráficos e imagens está sendo disponibilizado como um notebook e como um arquivo html, ambos gerados no databricks. Ele está localizado dentro da pasta '3. egenharia-de-dados' e foi nomeado como mvp_final. O notebook pode ser acessado aqui e o arquivo html aqui.
 
-## 10. Links úteis
+## 4. Links úteis
 
 [Repositório público no GitHub.](https://github.com/gabrielursulino/ciencia-de-dados-e-analytics)
 
